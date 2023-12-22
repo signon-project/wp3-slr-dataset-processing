@@ -1,0 +1,6 @@
+Before normalizing the glosses, there are 10881 unique glosses in 49042 samples.
+After pre-processing the glosses, there are 9517 unique glosses in 49042 samples.
+Before filtering the glosses, there are 9517 unique glosses in 49042 samples.
+After filtering the glosses, there are 4479 unique glosses in 39292 samples.
+Before reducing the samples, there are 4479 unique glosses in 39292 samples.
+After reducing the samples, there are 348 unique glosses in 26639 samples.

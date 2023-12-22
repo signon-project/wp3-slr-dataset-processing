@@ -1,0 +1,4 @@
+Before filtering the glosses, there are 4468 unique glosses in 93442 samples.
+After filtering the glosses, there are 3519 unique glosses in 84697 samples.
+Before reducing the samples, there are 3519 unique glosses in 84697 samples.
+After reducing the samples, there are 567 unique glosses in 72290 samples.
